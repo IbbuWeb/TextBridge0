@@ -8,7 +8,7 @@
   "description": "Minimal text bridge between devices",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/1828/1828919.png",
+      "src": "logotextbridge.png",
       "sizes": "512x512",
       "type": "image/png"
     }
